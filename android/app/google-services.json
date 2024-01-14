@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270670165981",
+    "firebase_url": "https://shave-f0ee7-default-rtdb.firebaseio.com",
+    "project_id": "shave-f0ee7",
+    "storage_bucket": "shave-f0ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270670165981:android:328527cd7b55490820a834",
+        "android_client_info": {
+          "package_name": "com.example.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270670165981-0e77cuoccbdk5nfsipmkdbo13ir0a0ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXdliu47KdUM3xb26mgdOTWarsZ9CEkW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270670165981-0e77cuoccbdk5nfsipmkdbo13ir0a0ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270670165981-qula46v6jc0tdlr36a4er1qn85r69lju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barber"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
